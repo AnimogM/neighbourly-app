@@ -17,6 +17,3 @@ API_URL = "https://myfunctionappwrapper.azurewebsites.net/api"
 
 # for local host if Azure functions served locally
 # API_URL = "http://localhost:7071/api"
-# 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
-
-# https://myfunctionappwrapper.azurewebsites.net/api/createAdvertisement?title=buy laptop&city=suleja&email=maryamgomina@yahoo.com&imgUrl=https://images.pexels.com/photos/12640456/pexels-photo-12640456.jpeg&price=400
